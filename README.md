@@ -77,7 +77,7 @@ No command-line knowledge required.
 * Corpse visibility toggle
 * Custom minimap colors and markers
 
-![Minimap](https://raw.githubusercontent.com/talagio90/GGPK-Modding-Tool/main/screenshots/Minimap2.PNG)
+![Minimap]
 
 ---
 
