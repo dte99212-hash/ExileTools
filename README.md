@@ -28,7 +28,7 @@ Features include:
 * Recursive export / replace
 * Search highlighting
 
-![GGPK Browser]
+![GGPK Browser](https://github.com/dte99212-hash/ExileTools/blob/main/VisualGGPK.png)
 ---
 
 ## 🎭 MTX Replacer
