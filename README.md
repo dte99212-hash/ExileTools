@@ -35,7 +35,7 @@ Features include:
 
 Swap pets, portals, and skill visuals using built-in replacement tools.
 
-![MTX Replacer]
+![MTX Replacer](https://github.com/dte99212-hash/ExileTools/blob/main/PortalReplace.png)
 
 ---
 
@@ -43,7 +43,7 @@ Swap pets, portals, and skill visuals using built-in replacement tools.
 
 Highlight dangerous or valuable map modifiers at a glance.
 
-![Map Mod Colorizer]
+![Map Mod Colorizer](https://github.com/dte99212-hash/ExileTools/blob/main/Mod%20Color.png)
 
 ---
 
