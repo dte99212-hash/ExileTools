@@ -13,7 +13,7 @@ Improve performance, reduce visual clutter, customize your UI, and streamline yo
 
 ## 🖥️ Main Patch Selection
 
-![Main Window]
+![Main Window](https://github.com/dte99212-hash/ExileTools/blob/main/main.jpg)
 
 ---
 
